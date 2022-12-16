@@ -3,3 +3,6 @@ def sum (a,b):
    ''' this is to creat branches'''
     return a+b
 
+def deff(a+b)
+    return a-b    
+
